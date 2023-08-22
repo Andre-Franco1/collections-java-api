@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CatalogoLivros">
+  <component name="RunManager" selected="Application.OrdenacaoPessoa">
     <configuration name="CarrinhoDeCompras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.list.operacoesbasicas.CarrinhoDeCompras" />
       <module name="collections-java-api" />
@@ -80,8 +80,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrdenacaoPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.list.ordenacao.OrdenacaoPessoa" />
+      <module name="collections-java-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.list.ordenacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrdenacaoPessoa" />
         <item itemvalue="Application.CatalogoLivros" />
         <item itemvalue="Application.CarrinhoDeCompras" />
         <item itemvalue="Application.ListaTarefas" />
